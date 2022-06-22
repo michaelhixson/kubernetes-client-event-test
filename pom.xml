@@ -13,7 +13,7 @@
   <properties>
     <maven.compiler.release>14</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <kubernetes-client.version>4.10.2</kubernetes-client.version>
+    <kubernetes-client.version>4.11.2</kubernetes-client.version>
     <logback.version>1.2.3</logback.version>
     <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
